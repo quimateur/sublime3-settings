@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Boxy Theme",
+		"Color Highlighter",
+		"Color Scheme - Frontend Delight",
+		"JavaScriptNext - ES6 Syntax",
+		"Maven",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"ReactJS",
+		"Sass",
+		"Smarty",
+		"SublimeCodeIntel",
+		"Theme - Brogrammer",
+		"TrailingSpaces",
+		"UnusedCssFinder"
+	],
+	"repositories":
+	[
+		"https://github.com/nlloyd/SublimeMaven",
+		"https://github.com/nlloyd/SublimeMaven"
+	]
+}
