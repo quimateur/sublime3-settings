@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"font_size": 16,
 	"highlight_line": false,
 	"ignored_packages":
@@ -10,7 +10,7 @@
 	[
 		120
 	],
-	"theme": "Boxy Monokai.sublime-theme",
+	"theme": "Brogrammer.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"wrap_width": 120
